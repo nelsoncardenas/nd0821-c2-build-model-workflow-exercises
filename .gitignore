@@ -2,3 +2,5 @@
 mlruns
 wandb
 .ipynb_checkpoints
+*.csv
+*.parquet
